@@ -4,12 +4,15 @@ I'm a **Software Engineer** passionate about building scalable web applications,
 
 ## 💻 Skills & Technologies
 
-- **Languages**: Python, Bash, SQL, JavaScript
+- **Languages**: Python, Bash, SQL, JavaScript, HTML, CSS
 - **Frameworks**: Flask, FastAPI
-- **Cloud**: AWS (EC2, S3, RDS, Lambda, CloudFormation, CloudWatch)
-- **DevOps**: Jenkins, GitHub Actions, GitLab CI, Terraform, Docker, Kubernetes
 - **Databases**: PostgreSQL
-- **Development Practices**: TDD, OOP, Agile, CI/CD pipelines
+- **Cloud Platforms**: AWS (EC2, S3, RDS, Lambda, CloudFormation, CloudWatch)
+- **CI/CD Tools**: Jenkins, GitHub Actions, GitLab CI
+- **Infrastructure as Code**: Terraform, AWS CloudFormation
+- **Containerisation & Orchestration**: Docker, Kubernetes
+- **Monitoring & Logging**: Prometheus, AWS CloudWatch, ELK Stack
+- **Development Practices**: Test-Driven Development (TDD), Object-Oriented Programming (OOP), Agile, Pair Programming
 
 ## 🚀 Projects
 
@@ -21,6 +24,12 @@ I'm a **Software Engineer** passionate about building scalable web applications,
 
 - **AWS Certified Solutions Architect – Associate** (In Progress)
 - **APM PFQ** (Project Fundamentals Qualification)
+
+
+## 📈 GitHub Stats
+
+![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudmoe53&show_icons=true&hide_title=true&hide=prs&count_private=true)
+
 
 ## 📬 Contact Me
 
