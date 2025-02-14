@@ -1,10 +1,10 @@
 # Hi, I'm Mahmoud 👋
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4b4f83bb-b156-4f89-823e-13ec2ef58a5c" alt="Mahmoud's GIF" width="250"/>
+</div>
 
-![image](https://github.com/user-attachments/assets/4b4f83bb-b156-4f89-823e-13ec2ef58a5c)
-
-
-I'm a **Software Engineer** passionate about building scalable web applications, cloud computing, and DevOps practices. I specialise in **Python**, **cloud infrastructure**, and **automation**. Currently, I work at **Aviva**, delivering high-quality, cloud-based solutions.
+I'm a **Software Engineer** passionate about building scalable web applications, cloud computing, and DevOps practices. I specialize in **Python**, **cloud infrastructure**, and **automation**. Currently, I work at **Aviva**, delivering high-quality, cloud-based solutions.
 
 ## 💻 Skills & Technologies
 
@@ -17,6 +17,7 @@ I'm a **Software Engineer** passionate about building scalable web applications,
 - **Containerisation & Orchestration**: Docker, Kubernetes
 - **Monitoring & Logging**: Prometheus, AWS CloudWatch, ELK Stack
 - **Development Practices**: Test-Driven Development (TDD), Object-Oriented Programming (OOP), Agile, Pair Programming
+
 
 ## 🚀 Projects
 
@@ -32,7 +33,17 @@ I'm a **Software Engineer** passionate about building scalable web applications,
 
 ## 📈 GitHub Stats
 
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudmoe53&show_icons=true&hide_title=true&hide=prs&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudmoe53&show_icons=true&hide_title=true&hide=prs&count_private=true" alt="Mahmoud's GitHub Stats" width="400"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudmoe53&layout=compact&count_private=true" alt="Mahmoud's Most Used Languages" width="400"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudmoe53&theme=dark" alt="Mahmoud's GitHub Contributions" width="400"/>
+</div>
 
 
 ## 📬 Contact Me
