@@ -1,5 +1,9 @@
 # Hi, I'm Mahmoud 👋
 
+
+![image](https://github.com/user-attachments/assets/4b4f83bb-b156-4f89-823e-13ec2ef58a5c)
+
+
 I'm a **Software Engineer** passionate about building scalable web applications, cloud computing, and DevOps practices. I specialise in **Python**, **cloud infrastructure**, and **automation**. Currently, I work at **Aviva**, delivering high-quality, cloud-based solutions.
 
 ## 💻 Skills & Technologies
