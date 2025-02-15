@@ -48,6 +48,6 @@ I'm a **Software Engineer** passionate about building scalable web applications,
 
 ## 📬 Contact Me
 
-- 📧 Email: [mahmooudmoe53@hotmail.com](mailto:mahmooudmoe53@hotmail.com)
+- 📧 Email: [mahmoudmoe53@hotmail.com](mailto:mahmoudmoe53@hotmail.com)
 
 Thanks for checking out my profile! Feel free to connect! 🙌
