@@ -24,7 +24,7 @@ I'm a **Software Engineer** passionate about building scalable web applications,
 - **[Job Applications Tracker](https://github.com/aaden04/job_application_tracker)**  
   Full-stack web application built with Python, Flask, and PostgreSQL. Helps users keep track of applications and interviews.
 
-- **[100 Python Projects](https://github.com/mahmoudmoe53/Python_Projects)**  
+- **[100 Python Projects](https://github.com/mahmoudmoe53/100_Python_Projects)**  
   I spent 100 days creating different projects ranging everywhere from, an interactive hangman game to a fully functioning Caesars cypher allowing you to encrypt your messages!
 
 
